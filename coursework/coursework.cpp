@@ -440,9 +440,3 @@ int main() {
         system("pause");
     }
 }
-
-// C:\Users\Nikita\source\repos\labs_22-23\1sem\coursework\вывод.txt
-// C:\Users\Nikita\source\repos\labs_22-23\1sem\coursework\ввод1.txt
-// C:\Users\Nikita\source\repos\labs_22-23\1sem\coursework\ввод2.txt
-// C:\Users\Nikita\source\repos\labs_22-23\1sem\coursework\ввод3.txt
-// C:\Users\Nikita\source\repos\labs_22-23\1sem\coursework\ввод4.txt
